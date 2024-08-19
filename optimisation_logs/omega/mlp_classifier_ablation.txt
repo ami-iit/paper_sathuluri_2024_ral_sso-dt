@@ -1,0 +1,77 @@
+Starting ablation at 2025-01-18 14:53:51.180108 
+num_layer: 1, num_neuron: 64, alpha: 0.0001, score: 0.955390625, time_taken: 0:00:35.877962
+[[36340   642]
+ [ 1071   347]]
+num_layer: 1, num_neuron: 64, alpha: 0.001, score: 0.9579947916666667, time_taken: 0:00:32.195933
+[[36489   493]
+ [ 1120   298]]
+num_layer: 1, num_neuron: 64, alpha: 0.01, score: 0.9567447916666667, time_taken: 0:00:19.002194
+[[36381   601]
+ [ 1060   358]]
+num_layer: 1, num_neuron: 128, alpha: 0.0001, score: 0.9471614583333333, time_taken: 0:02:31.087082
+[[35991   991]
+ [ 1038   380]]
+num_layer: 1, num_neuron: 128, alpha: 0.001, score: 0.9496354166666666, time_taken: 0:01:16.676615
+[[36050   932]
+ [ 1002   416]]
+num_layer: 1, num_neuron: 128, alpha: 0.01, score: 0.9578125, time_taken: 0:00:39.872093
+[[36466   516]
+ [ 1104   314]]
+num_layer: 1, num_neuron: 256, alpha: 0.0001, score: 0.941796875, time_taken: 0:04:39.447793
+[[35683  1299]
+ [  936   482]]
+num_layer: 1, num_neuron: 256, alpha: 0.001, score: 0.9476041666666667, time_taken: 0:05:15.730442
+[[35974  1008]
+ [ 1004   414]]
+num_layer: 1, num_neuron: 256, alpha: 0.01, score: 0.9584635416666667, time_taken: 0:03:27.252791
+[[36552   430]
+ [ 1165   253]]
+num_layer: 2, num_neuron: 64, alpha: 0.0001, score: 0.9466666666666667, time_taken: 0:01:14.854796
+[[35987   995]
+ [ 1053   365]]
+num_layer: 2, num_neuron: 64, alpha: 0.001, score: 0.9477604166666667, time_taken: 0:01:14.470553
+[[36039   943]
+ [ 1063   355]]
+num_layer: 2, num_neuron: 64, alpha: 0.01, score: 0.9509895833333334, time_taken: 0:01:10.230815
+[[36187   795]
+ [ 1087   331]]
+num_layer: 2, num_neuron: 128, alpha: 0.0001, score: 0.94984375, time_taken: 0:03:10.239820
+[[36078   904]
+ [ 1022   396]]
+num_layer: 2, num_neuron: 128, alpha: 0.001, score: 0.9481770833333333, time_taken: 0:03:07.629235
+[[36020   962]
+ [ 1028   390]]
+num_layer: 2, num_neuron: 128, alpha: 0.01, score: 0.951875, time_taken: 0:04:48.280124
+[[36260   722]
+ [ 1126   292]]
+num_layer: 2, num_neuron: 256, alpha: 0.0001, score: 0.9524479166666666, time_taken: 0:03:11.881167
+[[36260   722]
+ [ 1104   314]]
+num_layer: 2, num_neuron: 256, alpha: 0.001, score: 0.95140625, time_taken: 0:04:23.389250
+[[36170   812]
+ [ 1054   364]]
+num_layer: 2, num_neuron: 256, alpha: 0.01, score: 0.9429166666666666, time_taken: 0:06:05.128860
+[[35733  1249]
+ [  943   475]]
+num_layer: 3, num_neuron: 64, alpha: 0.0001, score: 0.9472135416666667, time_taken: 0:01:16.389157
+[[35999   983]
+ [ 1044   374]]
+num_layer: 3, num_neuron: 64, alpha: 0.001, score: 0.9448697916666666, time_taken: 0:01:05.057840
+[[35879  1103]
+ [ 1014   404]]
+num_layer: 3, num_neuron: 64, alpha: 0.01, score: 0.9504166666666667, time_taken: 0:01:07.171889
+[[36135   847]
+ [ 1057   361]]
+num_layer: 3, num_neuron: 128, alpha: 0.0001, score: 0.9428645833333333, time_taken: 0:02:47.203884
+[[35818  1164]
+ [ 1030   388]]
+num_layer: 3, num_neuron: 128, alpha: 0.001, score: 0.94734375, time_taken: 0:02:12.819150
+[[35999   983]
+ [ 1039   379]]
+num_layer: 3, num_neuron: 128, alpha: 0.01, score: 0.9485677083333334, time_taken: 0:03:21.923392
+[[36075   907]
+ [ 1068   350]]
+num_layer: 3, num_neuron: 256, alpha: 0.0001, score: 0.9549479166666667, time_taken: 0:01:00.059126
+[[36375   607]
+ [ 1123   295]]
+Ending ablation at 15:54
