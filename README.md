@@ -24,12 +24,11 @@ A quick way to install the dependencies is via [mamba package manager](https://m
 
 ```sh
 mamba env create -f environment.yml
-pip install git+https://github.com/ami-iit/amo_urdf
 ```
 
 To get the correct values corresponding to the hardware of the robot, clone:
 ```sh
-git clone https://github.com/robotology/robots-configuration.git
+git clone https://github.com/robotology/robots-configuration.git@e5a262e
 ```
 
 Then clone the current repository:
@@ -57,7 +56,9 @@ time python ergoCub_walking_optimisation.py --workers 48 --generations 500 --pop
 ```
 This program takes around 4 hr on a 48 core machine with 3.2 GHz clock speed running Kali Linux 2024.1.
 
-If you want to jump right into visualising the robots' walking simulation output, you can do that by opening the file [simulation_output.html](./assets/simulation_output.html)
+If you want to jump right into visualising the robots' walking simulation output, you can do that by opening the file [simulation_output.html](./assets/simulation_output.html).
+
+If you want to setup your own robot for control and design co-optimisation using the pipeline described in the paper, have a look at [CoMoDO](https://github.com/ami-iit/comodo). 
 
 ### Maintainer
 
