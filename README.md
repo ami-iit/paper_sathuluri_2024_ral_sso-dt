@@ -1,6 +1,6 @@
 <h1 align="center">
-Maximising the tolerance to disturbances via the combined optimisation
-of controller and actuation for the robust walking of a humanoid robot
+Maximising tolerance to disturbances via combined control-actuation optimisation
+for robust humanoid robot walking
 </h1>
 
 <div style="text-align: center;">
