@@ -235,7 +235,7 @@ tion</summary>
   |----------------------------|----------------------------|----------------------------|
   | ![Sim1](assets/sim1.png)   | ![Sim3](assets/sim3.png)   | ![Sim2](assets/sim2.png)   |
 
-
+</details>
 
 ## Glossary
 
@@ -262,12 +262,6 @@ tion</summary>
 ## Working with your own walking robot for co-design? 
 
 If you want to setup your own robot for control and design co-optimisation using the pipeline described in the paper, have a look at [CoMoDO](https://github.com/ami-iit/comodo). 
-
-
-
-
-
-
 
 
 ### Maintainer
